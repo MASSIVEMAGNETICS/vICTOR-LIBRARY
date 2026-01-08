@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "TabTimeMachine",
+  "version": "1.0.0",
+  "description": "Automatically capture browser sessions with tabs metadata and PDFs every 30 minutes",
+  "permissions": [
+    "tabs",
+    "storage",
+    "debugger",
+    "nativeMessaging"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "TabTimeMachine"
+  },
+  "options_page": "options.html",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

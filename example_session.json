@@ -1,0 +1,40 @@
+{
+  "timestamp": 1704657600000,
+  "captureDate": "2024-01-07T12:00:00.000Z",
+  "tabCount": 3,
+  "tabs": [
+    {
+      "id": 123456789,
+      "url": "https://github.com/MASSIVEMAGNETICS/vICTOR-LIBRARY",
+      "title": "MASSIVEMAGNETICS/vICTOR-LIBRARY: TabTimeMachine Extension",
+      "active": true,
+      "pinned": false,
+      "index": 0,
+      "windowId": 1,
+      "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+      "incognito": false
+    },
+    {
+      "id": 123456790,
+      "url": "https://developer.chrome.com/docs/extensions/mv3/",
+      "title": "Manifest V3 - Chrome Developers",
+      "active": false,
+      "pinned": false,
+      "index": 1,
+      "windowId": 1,
+      "favIconUrl": "https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/chrome/images/touchicon-180.png",
+      "incognito": false
+    },
+    {
+      "id": 123456791,
+      "url": "https://www.google.com/",
+      "title": "Google",
+      "active": false,
+      "pinned": true,
+      "index": 2,
+      "windowId": 1,
+      "favIconUrl": "https://www.google.com/favicon.ico",
+      "incognito": false
+    }
+  ]
+}
